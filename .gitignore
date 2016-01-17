@@ -7,6 +7,9 @@
 /tags
 *.mo
 
+# CakePHP 2 lib
+/lib
+
 # Keep empty file
 !empty
 
